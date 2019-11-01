@@ -1,0 +1,13 @@
+/* minimalis stylesheet ami a megjelenitesert felelos */
+
+#mapid {
+    height: 100vh;
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.btns {
+    margin: 5px;
+    padding: 3px;
+}
